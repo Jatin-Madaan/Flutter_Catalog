@@ -9,6 +9,7 @@ class HomePage extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         title: Text("Catalog App"),
+    
       ),
       body: Center(
         child: Container(
