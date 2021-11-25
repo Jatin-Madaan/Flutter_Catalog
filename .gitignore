@@ -19,7 +19,6 @@ ios/
 .metadata
 test/
 pubspec.lock
-pubspec.yaml
 README.md
 
 # The .vscode folder contains launch configuration and tasks you configure in
